@@ -24,7 +24,7 @@ Pro-tips:
 The software comprises:
 * [SensorLog](http://sensorlog.berndthomas.net/) app for iOS (or consider AndroSensor for Android)
 * Google Drive account and app installed on the phone
-* [Process Sensor Data](process_sensor_data.ipynb) notebook to run on [Colaboratory](https://colab.research.google.com/) 
+* [Process Sensor Data](notebooks/process_sensor_data.ipynb) notebook to run on [Colaboratory](https://colab.research.google.com/) 
 
 To configure the data logged:
 * Set SensorLog to log to a file on the device 
@@ -38,4 +38,4 @@ After each session, the recorded data can be uploaded to a Google Drive folder a
 
 ## Data Processing Notebook
 
-See [Process Sensor Data](process_sensor_data.ipynb) notebook to run on [Colaboratory](https://colab.research.google.com/)
+See [Process Sensor Data](notebooks/process_sensor_data.ipynb) notebook to run on [Colaboratory](https://colab.research.google.com/)
